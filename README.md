@@ -1,7 +1,7 @@
 # FPGA-Ping-Pong-Game
 
-This project implements a simple **Ping Pong (Pong) game on an FPGA** using the Basys 3 Artix-7 development board.  
-The design was developed as part of the **Digital Integrated Circuits / Digital Systems** laboratory project.
+This project implements a simple Ping Pong game on an FPGA using the Basys 3 Artix-7 development board.  
+The design was developed as part of the **Digital Integrated Circuits** laboratory project.
 
 The game is displayed on a VGA monitor and controlled using the buttons on the Basys 3 board.
 
